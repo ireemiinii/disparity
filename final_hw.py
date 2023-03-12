@@ -5,7 +5,6 @@
 #
 #
 # İREM BAKIR
-# 21732881
 # The first and second definitions are for question one.
 #
 # The third and fourth definitions are for question two.
